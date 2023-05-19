@@ -1,2 +1,2 @@
 # Playground
-This is my playground and I with the code here
+This is my playground and I play with the code here
